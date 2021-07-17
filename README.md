@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate full-stack undergraduate from Viet Nam</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
-
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
 
 - 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
@@ -24,6 +21,7 @@
 - 📄 Know about my experiences [https://github.com/Fatsfish/Certification](https://github.com/Fatsfish/Certification)
 
 - ⚡ Fun fact **I love music**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
