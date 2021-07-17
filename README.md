@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
 
+https://github.com/Fatsfish/Fatsfish/blob/main/fatsfish.svg
+
 
 - 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
 
@@ -40,3 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko" alt="fatsfish" /></p>
 
+https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge-worth-sharing.svg
