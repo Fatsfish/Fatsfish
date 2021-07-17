@@ -37,5 +37,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en" alt="fatsfish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&" alt="fatsfish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko" alt="fatsfish" /></p>
 
