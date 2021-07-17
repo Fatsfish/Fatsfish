@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full-stack undergraduate from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
-<a href="https://now-playing-profile-h5c7r64g0-fatsfish.vercel.app/now-playing?open">
-    <img src="https://https://now-playing-profile-h5c7r64g0-fatsfish.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://spotify-embedded-profile.vercel.app/now-playing?open">
+    <img src="https://spotify-embedded-profile.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
 - 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
