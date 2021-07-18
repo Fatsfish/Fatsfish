@@ -44,9 +44,5 @@
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
 
-Music I recommend
-
-
-[![demotape - closerthanthis](https://www.youtube.com/embed/_nWti-AzZOQ?controls=0&rel=0&autoplay=1&loop=1)](https://www.youtube.com/embed/_nWti-AzZOQ?controls=0&rel=0&autoplay=1&loop=1)
 
 
