@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en" alt="fatsfish" /></p></br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko" alt="fatsfish" /></p></br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko" alt="fatsfish" /></p></br>
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
 
