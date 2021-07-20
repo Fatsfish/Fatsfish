@@ -104,6 +104,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko" alt="fatsfish" /></p>
 
+- ⚡ **My Spotify Recently Played List:**
+
+![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi)
+
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
 
