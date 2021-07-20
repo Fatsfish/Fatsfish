@@ -106,7 +106,7 @@
 
 - ⚡ **My Spotify Recently Played List:**
 
-![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)
+[![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
 
