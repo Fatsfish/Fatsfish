@@ -104,7 +104,8 @@
 
 [![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
 
-- ⚡ **My Spotify Recently Played List:**
+
+- ⚡ **My Spotify Recently Played List (If you'd like to know me through music):**
 
 [![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)
 
