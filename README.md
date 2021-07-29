@@ -115,6 +115,11 @@
 
 [![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)
 
+# My followers
+<!--START_SECTION:top-followers--> 
+<!--END_SECTION:top-followers-->
+
+
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
 
