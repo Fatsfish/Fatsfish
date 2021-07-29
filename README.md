@@ -105,6 +105,80 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-215-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 245 Contributions in the Year 2021
+ > 
+> 📦 284.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    83 commits     ██████████░░░░░░░░░░░░░░░   41.5% 
+🌆 Daytime    49 commits     ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+🌃 Evening    63 commits     ████████░░░░░░░░░░░░░░░░░   31.5% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+Wednesday    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
+Thursday     44 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0% 
+Friday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Saturday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
+Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
+
+
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatsfish" /></p>
