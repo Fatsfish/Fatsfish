@@ -118,7 +118,53 @@
 [![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)
 
 # My followers
-<!--START_SECTION:top-followers--> 
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ndungx">
+        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
+      </a>
+      <br />
+      <a href="https://github.com/ndungx">Nguyễn Dũng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/giangntse150746">
+        <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
+      </a>
+      <br />
+      <a href="https://github.com/giangntse150746">giangntse150746</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ttphats">
+        <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
+      </a>
+      <br />
+      <a href="https://github.com/ttphats">Thái Thành Phát</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tonynguyen2512">
+        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="tonynguyen2512"/>
+      </a>
+      <br />
+      <a href="https://github.com/tonynguyen2512">tonynguyen2512</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TrangHienKhoa">
+        <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
+      </a>
+      <br />
+      <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LeBuoi">
+        <img src="https://avatars2.githubusercontent.com/u/72743699" width="100px;" alt="LeBuoi"/>
+      </a>
+      <br />
+      <a href="https://github.com/LeBuoi">LeBuoi</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
