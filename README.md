@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate Full Stack undergraduate from Viet Nam</h3>
+
+<h3 align="center">A passionate Full Stack undergraduate from Viet Nam
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
 
@@ -23,6 +25,11 @@
 
 - ⚡ Fun fact **I love music**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
+
+- Profile count since 29/06/2021:
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/fatsfish/count.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -108,6 +115,7 @@
 - ⚡ **My Spotify Recently Played List (If you'd like to know me through music):**
 
 [![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)
+
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
 
