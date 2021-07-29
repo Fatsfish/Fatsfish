@@ -111,7 +111,6 @@
 [![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-225-blue)
 
 **🐱 My Github Data** 
 
@@ -191,7 +190,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 [![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)
 
-# My followers
+# My top followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
