@@ -104,6 +104,9 @@
 
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatsfish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en" alt="fatsfish" /></p>
@@ -118,8 +121,6 @@
 # My followers
 <!--START_SECTION:top-followers--> 
 <!--END_SECTION:top-followers-->
-
-
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
 
