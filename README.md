@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I love music**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
-- Visitor count since 29/06/2021:
+- Visitor count since 29/07/2021:
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/fatsfish/count.svg" />
 </p>
