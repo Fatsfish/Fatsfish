@@ -37,8 +37,7 @@
 <a href="https://fb.com/fatsfish.d.james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatsfish.d.james" height="30" width="40" /></a>
 <a href="https://instagram.com/james.d.khai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="james.d.khai" height="30" width="40" /></a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="james-nguyễn-skillcetera" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/james-nguy%E1%BB%85n-skillcetera?trk=profile-badge">James Nguyễn</a></div>
-              
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank"> 
