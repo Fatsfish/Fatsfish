@@ -104,6 +104,13 @@
 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatsfish" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en" alt="fatsfish" /></p>
+
+[![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-215-blue)
 
@@ -180,13 +187,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatsfish" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en" alt="fatsfish" /></p>
-
-[![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
-
 
 - ⚡ **My Spotify Recently Played List (If you'd like to know me through music):**
 
