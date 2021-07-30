@@ -25,7 +25,8 @@
 
 - ⚡ Fun fact **I love music**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
-- Visitor count since 29/06/2021:
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFatsfish&count_bg=%2379C83D&title_bg=%23584848&icon=github.svg&icon_color=%23E7E7E7&title=Github%27s+hits&edge_flat=true)](https://hits.seeyoufarm.com)
+- Visitor count since 29/07/2021:
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/fatsfish/count.svg" />
 </p>
@@ -104,22 +105,141 @@
 
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatsfish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en" alt="fatsfish" /></p>
 
 [![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
 
+[![More detail stats](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://profile-summary-for-github.com/user/fatsfish)
+<!--START_SECTION:waka-->
+
+**🐱 My Github Data** 
+
+> 🏆 245 Contributions in the Year 2021
+ > 
+> 📦 284.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    83 commits     ██████████░░░░░░░░░░░░░░░   40.69% 
+🌆 Daytime    53 commits     ██████░░░░░░░░░░░░░░░░░░░   25.98% 
+🌃 Evening    63 commits     ███████░░░░░░░░░░░░░░░░░░   30.88% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       42 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+Wednesday    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+Thursday     48 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+Friday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
+Saturday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
+Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+**Timeline**
+
+![LOCs chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
+
+
+ Last Updated on 29/07/2021
+<!--END_SECTION:waka-->
 
 - ⚡ **My Spotify Recently Played List (If you'd like to know me through music):**
 
 [![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=21vpdlujrx46idrwsew65i5oi&width=1000)
 
-# My followers
-<!--START_SECTION:top-followers--> 
+# My top followers
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ndungx">
+        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
+      </a>
+      <br />
+      <a href="https://github.com/ndungx">Nguyễn Dũng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/giangntse150746">
+        <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
+      </a>
+      <br />
+      <a href="https://github.com/giangntse150746">giangntse150746</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ttphats">
+        <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
+      </a>
+      <br />
+      <a href="https://github.com/ttphats">Thái Thành Phát</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tonynguyen2512">
+        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="tonynguyen2512"/>
+      </a>
+      <br />
+      <a href="https://github.com/tonynguyen2512">tonynguyen2512</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TrangHienKhoa">
+        <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
+      </a>
+      <br />
+      <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LeBuoi">
+        <img src="https://avatars2.githubusercontent.com/u/72743699" width="100px;" alt="LeBuoi"/>
+      </a>
+      <br />
+      <a href="https://github.com/LeBuoi">LeBuoi</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
