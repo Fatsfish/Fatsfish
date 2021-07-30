@@ -25,6 +25,7 @@
 
 - ⚡ Fun fact **I love music**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFatsfish&count_bg=%2379C83D&title_bg=%23584848&icon=github.svg&icon_color=%23E7E7E7&title=Github%27s+hits&edge_flat=true)](https://hits.seeyoufarm.com)
 - Visitor count since 29/07/2021:
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/fatsfish/count.svg" />
