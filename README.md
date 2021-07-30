@@ -111,6 +111,7 @@
 
 [![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
 
+[![More detail stats](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://profile-summary-for-github.com/user/fatsfish)
 <!--START_SECTION:waka-->
 
 **🐱 My Github Data** 
