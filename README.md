@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack undergraduate from Viet Nam
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-[![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
+[![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/assets/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
 
 - 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
 
@@ -111,7 +111,7 @@
 
 [![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
 
-[![More detail stats](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://profile-summary-for-github.com/user/fatsfish)
+[![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.JPG)](https://profile-summary-for-github.com/user/fatsfish)
 <!--START_SECTION:waka-->
 
 **🐱 My Github Data** 
@@ -242,7 +242,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 </table>
 <!--END_SECTION:top-followers-->
 
-[![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
+[![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Knowledge%20worth%20sharing%20(1).gif)](https://www.facebook.com/Fatsfish.D.James)
 
 
 
