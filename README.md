@@ -105,78 +105,15 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatsfish" /></p>
+[![Top Languages of fatsfish](https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=fatsfish&show_icons=true&theme=radical&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en" alt="fatsfish" /></p>
+[![Stats of fatsfish](https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en)](https://github-readme-stats.vercel.app/api?username=fatsfish&show_icons=true&theme=great-gatsby&locale=en)
 
 [![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
 
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.JPG)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    88 commits     ██████████░░░░░░░░░░░░░░░   40.0% 
-🌆 Daytime    55 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌃 Evening    72 commits     ████████░░░░░░░░░░░░░░░░░   32.73% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
-Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Wednesday    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
-Thursday     54 commits     ██████░░░░░░░░░░░░░░░░░░░   24.55% 
-Friday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Sunday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Java                     49 mins             ██████████████████░░░░░░░   73.89% 
-Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
-C#                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
-
-🐱‍💻 Projects: 
-OnlineQuizApp            49 mins             ██████████████████░░░░░░░   74.01% 
-ConsoleApp1              17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.99%
-
-💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
-
-
- Last Updated on 31/07/2021
 <!--END_SECTION:waka-->
 
 - ⚡ **My Spotify Recently Played List (If you'd like to know me through music):**
