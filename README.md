@@ -176,7 +176,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![LOCs Chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2021
+ Last Updated on 04/08/2021
 <!--END_SECTION:waka-->
 
 - ⚡ **My Spotify Recently Played List (If you'd like to know me through music):**
