@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/JamesNguyen-Fatsfish-Skillcetera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-nguyễn-skillcetera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/JamesNguyen-Fatsfish-Skillcetera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-nguyễn-skillcetera" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16472007/james-nguyễn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16472007/james-nguyễn" height="30" width="40" /></a>
 <a href="https://fb.com/fatsfish.d.james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatsfish.d.james" height="30" width="40" /></a>
 <a href="https://instagram.com/james.d.khai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="james.d.khai" height="30" width="40" /></a>
