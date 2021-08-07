@@ -9,27 +9,23 @@
 
 - 🌱 I’m currently learning **ASP.net, Azure**
 
-- 👯 I’m looking to collaborate on [Skillcetera's projects](https://www.facebook.com/skillcetera)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Fatsfish?tab=repositories)
 
-- 🤝 I’m looking for help with [Knowledge Worth Sharing](https://www.facebook.com/TEDxFPTUniversityHCMC)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Fatsfish?tab=repositories](https://github.com/Fatsfish?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.facebook.com/Fatsfish.D.James](https://www.facebook.com/Fatsfish.D.James)
+- 📝 I regularly write articles on [My Facebook Page](https://www.facebook.com/Fatsfish.D.James)
 
 - 💬 Ask me about **Java, C, C++, HTML5, CSS, Bootstrap, Azure, ASP.net**
 
-- 📫 How to reach me **tuankhai512@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Fatsfish/Certification](https://github.com/Fatsfish/Certification)
+- 📄 Know about my experiences [Through My Certifications](https://github.com/Fatsfish/Certification)
 
 - ⚡ Fun fact **I love music**
+
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFatsfish&count_bg=%2379C83D&title_bg=%23584848&icon=github.svg&icon_color=%23E7E7E7&title=Github%27s+hits&edge_flat=true)](https://hits.seeyoufarm.com)
-- Visitor count since 29/07/2021:
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/fatsfish/count.svg" />
-</p>
+
+- 📫 How to reach me **tuankhai512@gmail.com**
+
+- 👯 I’m looking to collaborate on [![Skillcetera's projects](https://www.facebook.com/skillcetera)](https://www.facebook.com/skillcetera)
+
+- 🤝 I’m looking for help with [![Knowledge Worth Sharing](https://github.com/Fatsfish/Fatsfish/blob/main/assets/TEDxFPTUniversityHCMC.png)](https://www.facebook.com/TEDxFPTUniversityHCMC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -178,6 +174,13 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
+
+- Visitor count since 29/07/2021:
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/fatsfish/count.svg" />
+</p>
+
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFatsfish&count_bg=%2379C83D&title_bg=%23584848&icon=github.svg&icon_color=%23E7E7E7&title=Github%27s+hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 - ⚡ **My Spotify Recently Played List (If you'd like to know me through music):**
 
