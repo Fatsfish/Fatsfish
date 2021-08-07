@@ -23,9 +23,11 @@
 
 - 📫 How to reach me **tuankhai512@gmail.com**
 
-- 👯 I’m looking to collaborate on [![Skillcetera's projects](https://www.facebook.com/skillcetera)](https://www.facebook.com/skillcetera)
+- 👯 I’m looking to collaborate on [Skillcetera's projects](https://www.facebook.com/skillcetera)
 
-- 🤝 I’m looking for help with [![Knowledge Worth Sharing](https://github.com/Fatsfish/Fatsfish/blob/main/assets/TEDxFPTUniversityHCMC.png)](https://www.facebook.com/TEDxFPTUniversityHCMC)
+- 🤝 I’m looking for help with [Knowledge Worth Sharing](https://www.facebook.com/TEDxFPTUniversityHCMC)
+
+[![TEDxFPTUniversityHCMC](https://github.com/Fatsfish/Fatsfish/blob/main/assets/TEDxFPTUniversityHCMC.png)](https://www.ted.com/tedx/events/40242)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
