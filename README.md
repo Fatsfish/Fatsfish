@@ -169,7 +169,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
+![Locs chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
  Last Updated on 07/08/2021
