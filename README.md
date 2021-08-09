@@ -169,7 +169,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![LOCs Chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
+![LOCs Chart of FF](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
  Last Updated on 08/08/2021
