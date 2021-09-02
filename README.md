@@ -218,6 +218,13 @@ C++                      2 repos             ██░░░░░░░░░�
       <a href="https://github.com/tonynguyen2512">tonynguyen2512</a>
     </td>
     <td align="center">
+      <a href="https://github.com/fepfer">
+        <img src="https://avatars2.githubusercontent.com/u/81204713" width="100px;" alt="fepfer"/>
+      </a>
+      <br />
+      <a href="https://github.com/fepfer">Minh Thái</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TrangHienKhoa">
         <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
       </a>
