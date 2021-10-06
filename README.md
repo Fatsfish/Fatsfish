@@ -141,13 +141,18 @@ Sunday       52 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     24 mins             ███████████░░░░░░░░░░░░░░   46.04% 
+JSX                      17 mins             ████████░░░░░░░░░░░░░░░░░   32.97% 
+Text                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.93% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bethebestenglish-main    28 mins             █████████████░░░░░░░░░░░░   52.51% 
+bethebestenglish         25 mins             ███████████░░░░░░░░░░░░░░   47.49%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  53 mins             █████████████████████████   100.0%
 
 ```
 
@@ -168,7 +173,7 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/10/2021
+ Last Updated on 06/10/2021
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
