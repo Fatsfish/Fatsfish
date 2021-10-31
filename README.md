@@ -195,18 +195,18 @@ C#                       2 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ndungx">
-        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
-      </a>
-      <br />
-      <a href="https://github.com/ndungx">Nguyễn Dũng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/giangntse150746">
         <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
       </a>
       <br />
       <a href="https://github.com/giangntse150746">giangntse150746</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ndungx">
+        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
+      </a>
+      <br />
+      <a href="https://github.com/ndungx">Nguyễn Dũng</a>
     </td>
     <td align="center">
       <a href="https://github.com/ttphats">
