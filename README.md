@@ -228,27 +228,27 @@ C#                       2 repos             ██░░░░░░░░░�
       <a href="https://github.com/fepfer">Minh Thái</a>
     </td>
     <td align="center">
+      <a href="https://github.com/TuanNguyen2204">
+        <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
+      </a>
+      <br />
+      <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TrangHienKhoa">
         <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
       </a>
       <br />
       <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/namhikelo">
         <img src="https://avatars2.githubusercontent.com/u/61881881" width="100px;" alt="namhikelo"/>
       </a>
       <br />
       <a href="https://github.com/namhikelo">Phan Hoàng Nam</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TuanNguyen2204">
-        <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
-      </a>
-      <br />
-      <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
     </td>
     <td align="center">
       <a href="https://github.com/LeBuoi">
