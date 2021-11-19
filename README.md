@@ -192,13 +192,6 @@ C#                       2 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/giangntse150746">
-        <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
-      </a>
-      <br />
-      <a href="https://github.com/giangntse150746">giangntse150746</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ndungx">
         <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
       </a>
@@ -206,11 +199,25 @@ C#                       2 repos             ██░░░░░░░░░�
       <a href="https://github.com/ndungx">Nguyễn Dũng</a>
     </td>
     <td align="center">
+      <a href="https://github.com/giangntse150746">
+        <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
+      </a>
+      <br />
+      <a href="https://github.com/giangntse150746">giangntse150746</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ttphats">
         <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
       </a>
       <br />
       <a href="https://github.com/ttphats">Thái Thành Phát</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vunguyenhuychuong">
+        <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
+      </a>
+      <br />
+      <a href="https://github.com/vunguyenhuychuong">Chuongvnh</a>
     </td>
     <td align="center">
       <a href="https://github.com/tonynguyen2512">
@@ -233,6 +240,8 @@ C#                       2 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/TrangHienKhoa">
         <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
@@ -240,8 +249,6 @@ C#                       2 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/namhikelo">
         <img src="https://avatars2.githubusercontent.com/u/61881881" width="100px;" alt="namhikelo"/>
