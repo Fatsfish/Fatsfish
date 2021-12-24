@@ -141,17 +141,13 @@ Sunday       53 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               2 hrs 3 mins        ███████████████░░░░░░░░░░   60.71% 
-Other                    1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   32.7% 
-C#                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-WebUI                    2 hrs 4 mins        ███████████████░░░░░░░░░░   60.91% 
-WebAPI                   1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   39.09%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -172,7 +168,7 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/12/2021
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
