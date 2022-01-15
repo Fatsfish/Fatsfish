@@ -192,18 +192,18 @@ C#                       2 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ndungx">
-        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
-      </a>
-      <br />
-      <a href="https://github.com/ndungx">Nguyễn Dũng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/giangntse150746">
         <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
       </a>
       <br />
       <a href="https://github.com/giangntse150746">giangntse150746</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ndungx">
+        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
+      </a>
+      <br />
+      <a href="https://github.com/ndungx">Nguyễn Dũng</a>
     </td>
     <td align="center">
       <a href="https://github.com/ttphats">
@@ -227,12 +227,21 @@ C#                       2 repos             ██░░░░░░░░░�
       <a href="https://github.com/tonynguyen2512">tonynguyen2512</a>
     </td>
     <td align="center">
+      <a href="https://github.com/namhikelo">
+        <img src="https://avatars2.githubusercontent.com/u/61881881" width="100px;" alt="namhikelo"/>
+      </a>
+      <br />
+      <a href="https://github.com/namhikelo">Phan Hoàng Nam</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fepfer">
         <img src="https://avatars2.githubusercontent.com/u/81204713" width="100px;" alt="fepfer"/>
       </a>
       <br />
       <a href="https://github.com/fepfer">Minh Thái</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/TuanNguyen2204">
         <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
@@ -240,21 +249,12 @@ C#                       2 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/TrangHienKhoa">
         <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
       </a>
       <br />
       <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/namhikelo">
-        <img src="https://avatars2.githubusercontent.com/u/61881881" width="100px;" alt="namhikelo"/>
-      </a>
-      <br />
-      <a href="https://github.com/namhikelo">Phan Hoàng Nam</a>
     </td>
     <td align="center">
       <a href="https://github.com/LeBuoi">
