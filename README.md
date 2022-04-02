@@ -141,14 +141,13 @@ Sunday       63 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    0 secs              ███████████████████████░░   91.66% 
-C#                       0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.34%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-EMS                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -169,7 +168,7 @@ HTML                     3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/04/2022 18:52:12 UTC
+ Last Updated on 02/04/2022 18:47:51 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
