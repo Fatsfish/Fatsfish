@@ -215,11 +215,11 @@ HTML                     3 repos             ███░░░░░░░░�
       <a href="https://github.com/vunguyenhuychuong">Chuongvnh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tonynguyen2512">
-        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="tonynguyen2512"/>
+      <a href="https://github.com/TonyNguyen2512">
+        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
       </a>
       <br />
-      <a href="https://github.com/tonynguyen2512">tonynguyen2512</a>
+      <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
     <td align="center">
       <a href="https://github.com/fepfer">
