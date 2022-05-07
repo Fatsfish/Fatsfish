@@ -110,6 +110,8 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.JPG)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -168,7 +170,7 @@ HTML                     3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:53:18 UTC
+ Last Updated on 07/05/2022 18:50:54 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
