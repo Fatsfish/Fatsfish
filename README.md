@@ -210,18 +210,18 @@ HTML                     3 repos             ███░░░░░░░░�
       <a href="https://github.com/ttphats">Thái Thành Phát</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vunguyenhuychuong">
-        <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
-      </a>
-      <br />
-      <a href="https://github.com/vunguyenhuychuong">Chuongvnh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/TonyNguyen2512">
         <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
       </a>
       <br />
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vunguyenhuychuong">
+        <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
+      </a>
+      <br />
+      <a href="https://github.com/vunguyenhuychuong">Chuongvnh</a>
     </td>
     <td align="center">
       <a href="https://github.com/fepfer">
