@@ -221,7 +221,7 @@ HTML                     3 repos             ███░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
       </a>
       <br />
-      <a href="https://github.com/vunguyenhuychuong">Chuongvnh</a>
+      <a href="https://github.com/vunguyenhuychuong">oggy-learn-code</a>
     </td>
     <td align="center">
       <a href="https://github.com/fepfer">
