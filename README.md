@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 
 <h3 align="center">A passionate Full Stack undergraduate from Viet Nam
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" length="25px"></h3>
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/assets/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
 
