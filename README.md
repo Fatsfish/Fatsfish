@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 
-<h3 align="center">A passionate Full Stack undergraduate from Viet Nam
+<h3 align="center">A passionate Full Stack undergraduate from Viet Nam</h3>
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/assets/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
 
 - 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
