@@ -202,6 +202,13 @@ HTML                     3 repos             ███░░░░░░░░�
       <a href="https://github.com/giangntse150746">giangntse150746</a>
     </td>
     <td align="center">
+      <a href="https://github.com/knightz-007">
+        <img src="https://avatars2.githubusercontent.com/u/57595893" width="100px;" alt="knightz-007"/>
+      </a>
+      <br />
+      <a href="https://github.com/knightz-007">Hung Luu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ttphats">
         <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
       </a>
@@ -229,6 +236,8 @@ HTML                     3 repos             ███░░░░░░░░�
       <br />
       <a href="https://github.com/fepfer">Minh Thái</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/TuanNguyen2204">
         <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
@@ -236,8 +245,6 @@ HTML                     3 repos             ███░░░░░░░░�
       <br />
       <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/TrangHienKhoa">
         <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
