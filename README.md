@@ -223,12 +223,21 @@ HTML                     3 repos             ███░░░░░░░░�
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ngoduongkha">
+        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
+      </a>
+      <br />
+      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/vunguyenhuychuong">
         <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
       </a>
       <br />
       <a href="https://github.com/vunguyenhuychuong">oggy-learn-code</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/fepfer">
         <img src="https://avatars2.githubusercontent.com/u/81204713" width="100px;" alt="fepfer"/>
@@ -236,8 +245,6 @@ HTML                     3 repos             ███░░░░░░░░�
       <br />
       <a href="https://github.com/fepfer">Minh Thái</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/TuanNguyen2204">
         <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
