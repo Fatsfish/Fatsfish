@@ -246,13 +246,6 @@ HTML                     3 repos             ███░░░░░░░░�
       <a href="https://github.com/vunguyenhuychuong">oggy-learn-code</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fepfer">
-        <img src="https://avatars2.githubusercontent.com/u/81204713" width="100px;" alt="fepfer"/>
-      </a>
-      <br />
-      <a href="https://github.com/fepfer">Minh Thái</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/TuanNguyen2204">
         <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
       </a>
