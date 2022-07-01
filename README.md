@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
 
-- 🌱 I’m currently learning **ASP.net, Azure, Flutter**
+- 🌱 I’m currently learning **ASP.net, Azure, Flutter, Microservice Architecture**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Fatsfish?tab=repositories)
 
 - 📝 I regularly write articles on [My Facebook Page](https://www.facebook.com/Fatsfish.D.James)
 
-- 💬 Ask me about **Java, C, C++, HTML5, CSS, Bootstrap, Azure, ASP.net, Flutter**
+- 💬 Ask me about **Java, C, C++, HTML5, CSS, Bootstrap, Azure, ASP.net, Flutter, Microservice Architecture**
 
 - 📄 Know about my experiences [Through My Certifications](https://github.com/Fatsfish/Certification)
 
