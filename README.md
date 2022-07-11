@@ -239,18 +239,18 @@ HTML                     3 repos             ███░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ngoduongkha">
-        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
-      </a>
-      <br />
-      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vunguyenhuychuong">
         <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
       </a>
       <br />
       <a href="https://github.com/vunguyenhuychuong">oggy-learn-code</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ngoduongkha">
+        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
+      </a>
+      <br />
+      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
       <a href="https://github.com/fepfer-git">
