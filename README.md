@@ -209,25 +209,18 @@ HTML                     3 repos             ███░░░░░░░░�
       <a href="https://github.com/knightz-007">Hung Luu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/vunguyenhuychuong">
+        <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
+      </a>
+      <br />
+      <a href="https://github.com/vunguyenhuychuong">Chương Vũ</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ttphats">
         <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
       </a>
       <br />
       <a href="https://github.com/ttphats">Thái Thành Phát</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/meof-coding">
-        <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meof-coding"/>
-      </a>
-      <br />
-      <a href="https://github.com/meof-coding">Thanh Tra</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/babybear0906">
-        <img src="https://avatars2.githubusercontent.com/u/72665227" width="100px;" alt="babybear0906"/>
-      </a>
-      <br />
-      <a href="https://github.com/babybear0906">Lai Dinh Thuan (Jack)</a>
     </td>
     <td align="center">
       <a href="https://github.com/TonyNguyen2512">
@@ -236,14 +229,21 @@ HTML                     3 repos             ███░░░░░░░░�
       <br />
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/meof-coding">
+        <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meof-coding"/>
+      </a>
+      <br />
+      <a href="https://github.com/meof-coding">Thanh Tra</a>
+    </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/vunguyenhuychuong">
-        <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
+      <a href="https://github.com/babybear0906">
+        <img src="https://avatars2.githubusercontent.com/u/72665227" width="100px;" alt="babybear0906"/>
       </a>
       <br />
-      <a href="https://github.com/vunguyenhuychuong">Chương Vũ</a>
+      <a href="https://github.com/babybear0906">Lai Dinh Thuan (Jack)</a>
     </td>
     <td align="center">
       <a href="https://github.com/ngoduongkha">
