@@ -230,27 +230,27 @@ HTML                     3 repos             ███░░░░░░░░�
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ngoduongkha">
+        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
+      </a>
+      <br />
+      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/meof-coding">
         <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meof-coding"/>
       </a>
       <br />
       <a href="https://github.com/meof-coding">Thanh Tra</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/babybear0906">
         <img src="https://avatars2.githubusercontent.com/u/72665227" width="100px;" alt="babybear0906"/>
       </a>
       <br />
       <a href="https://github.com/babybear0906">Lai Dinh Thuan (Jack)</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ngoduongkha">
-        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
-      </a>
-      <br />
-      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
       <a href="https://github.com/fepfer-git">
