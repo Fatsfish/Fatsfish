@@ -188,6 +188,13 @@ HTML                     3 repos             ███░░░░░░░░�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/baolongv3">
+        <img src="https://avatars2.githubusercontent.com/u/43814741" width="100px;" alt="baolongv3"/>
+      </a>
+      <br />
+      <a href="https://github.com/baolongv3">baolongv3</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ndungx">
         <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
       </a>
@@ -229,6 +236,8 @@ HTML                     3 repos             ███░░░░░░░░�
       <br />
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ngoduongkha">
         <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
@@ -236,8 +245,6 @@ HTML                     3 repos             ███░░░░░░░░�
       <br />
       <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/meof-coding">
         <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meof-coding"/>
