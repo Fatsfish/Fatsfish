@@ -246,6 +246,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
+      <a href="https://github.com/KellyDang86">
+        <img src="https://avatars2.githubusercontent.com/u/42370372" width="100px;" alt="KellyDang86"/>
+      </a>
+      <br />
+      <a href="https://github.com/KellyDang86">KellyDang86</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/meof-coding">
         <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meof-coding"/>
       </a>
@@ -279,13 +286,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LeBuoi">
-        <img src="https://avatars2.githubusercontent.com/u/72743699" width="100px;" alt="LeBuoi"/>
-      </a>
-      <br />
-      <a href="https://github.com/LeBuoi">LeBuoi</a>
     </td>
   </tr>
 </table>
