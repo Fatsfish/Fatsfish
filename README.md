@@ -239,18 +239,18 @@ HTML                     3 repos             ██░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ngoduongkha">
-        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
-      </a>
-      <br />
-      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KellyDang86">
         <img src="https://avatars2.githubusercontent.com/u/42370372" width="100px;" alt="KellyDang86"/>
       </a>
       <br />
       <a href="https://github.com/KellyDang86">KellyDang86</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ngoduongkha">
+        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
+      </a>
+      <br />
+      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
       <a href="https://github.com/meof-coding">
