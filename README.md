@@ -216,6 +216,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/knightz-007">Hung Luu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/KellyDang86">
+        <img src="https://avatars2.githubusercontent.com/u/42370372" width="100px;" alt="KellyDang86"/>
+      </a>
+      <br />
+      <a href="https://github.com/KellyDang86">KellyDang86</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/vunguyenhuychuong">
         <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
       </a>
@@ -228,13 +235,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/ttphats">Thái Thành Phát</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KellyDang86">
-        <img src="https://avatars2.githubusercontent.com/u/42370372" width="100px;" alt="KellyDang86"/>
-      </a>
-      <br />
-      <a href="https://github.com/KellyDang86">KellyDang86</a>
     </td>
   </tr>
   <tr>
