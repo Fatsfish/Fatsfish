@@ -109,48 +109,9 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.JPG)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-684%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    194 commits    ██████████░░░░░░░░░░░░░░░   41.99% 
-🌆 Daytime    113 commits    ██████░░░░░░░░░░░░░░░░░░░   24.46% 
-🌃 Evening    133 commits    ███████░░░░░░░░░░░░░░░░░░   28.79% 
-🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Tuesday      73 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
-Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-Thursday     80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in C#** 
 
@@ -169,7 +130,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:55:02 UTC
+ Last Updated on 04/09/2022 18:54:35 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
