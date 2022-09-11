@@ -223,27 +223,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/knightz-007">Hung Luu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vunguyenhuychuong">
-        <img src="https://avatars2.githubusercontent.com/u/86512368" width="100px;" alt="vunguyenhuychuong"/>
-      </a>
-      <br />
-      <a href="https://github.com/vunguyenhuychuong">Chương Vũ</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ttphats">
         <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
       </a>
       <br />
       <a href="https://github.com/ttphats">Thái Thành Phát</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TonyNguyen2512">
-        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
-      </a>
-      <br />
-      <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
     <td align="center">
       <a href="https://github.com/ngoduongkha">
@@ -252,12 +236,21 @@ HTML                     3 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/babybear0906">
         <img src="https://avatars2.githubusercontent.com/u/72665227" width="100px;" alt="babybear0906"/>
       </a>
       <br />
       <a href="https://github.com/babybear0906">Lai Dinh Thuan (Jack)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TonyNguyen2512">
+        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
+      </a>
+      <br />
+      <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
     <td align="center">
       <a href="https://github.com/meof-coding">
@@ -286,6 +279,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LeBuoi">
+        <img src="https://avatars2.githubusercontent.com/u/72743699" width="100px;" alt="LeBuoi"/>
+      </a>
+      <br />
+      <a href="https://github.com/LeBuoi">LeBuoi</a>
     </td>
   </tr>
 </table>
