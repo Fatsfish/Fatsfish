@@ -113,45 +113,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-684%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    195 commits    ██████████░░░░░░░░░░░░░░░   42.03% 
-🌆 Daytime    113 commits    ██████░░░░░░░░░░░░░░░░░░░   24.35% 
-🌃 Evening    134 commits    ███████░░░░░░░░░░░░░░░░░░   28.88% 
-🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-Tuesday      74 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
-Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Thursday     80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
-Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-Sunday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -169,7 +130,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 18:57:37 UTC
+ Last Updated on 14/09/2022 18:57:05 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
