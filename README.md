@@ -109,9 +109,50 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.JPG)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-762%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    195 commits    ██████████░░░░░░░░░░░░░░░   41.85% 
+🌆 Daytime    115 commits    ██████░░░░░░░░░░░░░░░░░░░   24.68% 
+🌃 Evening    134 commits    ███████░░░░░░░░░░░░░░░░░░   28.76% 
+🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.72%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
+Tuesday      74 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
+Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+Thursday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
+Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
+Sunday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.88%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               1 hr 11 mins        ████████████████████████░   95.7% 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+
+🐱‍💻 Projects: 
+work-management-system   1 hr 15 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  1 hr 15 mins        █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in C#** 
 
@@ -130,7 +171,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2022 19:05:30 UTC
+ Last Updated on 28/09/2022 19:02:59 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
