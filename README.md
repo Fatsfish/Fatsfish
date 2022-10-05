@@ -142,15 +142,13 @@ Sunday       60 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ████████████████████████░   95.7% 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-work-management-system   1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -171,7 +169,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 19:04:55 UTC
+ Last Updated on 05/10/2022 19:10:59 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
