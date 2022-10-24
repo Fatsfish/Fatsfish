@@ -209,18 +209,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/KellyDang86">KellyDang86</a>
     </td>
     <td align="center">
-      <a href="https://github.com/giangntse150746">
-        <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
-      </a>
-      <br />
-      <a href="https://github.com/giangntse150746">giangntse150746</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/knightz-007">
         <img src="https://avatars2.githubusercontent.com/u/57595893" width="100px;" alt="knightz-007"/>
       </a>
       <br />
       <a href="https://github.com/knightz-007">Hung Luu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/giangntse150746">
+        <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
+      </a>
+      <br />
+      <a href="https://github.com/giangntse150746">giangntse150746</a>
     </td>
     <td align="center">
       <a href="https://github.com/ttphats">
@@ -230,27 +230,27 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/ttphats">Thái Thành Phát</a>
     </td>
     <td align="center">
-      <a href="https://github.com/meof-coding">
-        <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meof-coding"/>
-      </a>
-      <br />
-      <a href="https://github.com/meof-coding">Thanh Tra</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/TonyNguyen2512">
         <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
       </a>
       <br />
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ngoduongkha">
         <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
       </a>
       <br />
       <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/meof-coding">
+        <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meof-coding"/>
+      </a>
+      <br />
+      <a href="https://github.com/meof-coding">Thanh Tra</a>
     </td>
     <td align="center">
       <a href="https://github.com/babybear0906">
