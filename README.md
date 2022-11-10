@@ -163,6 +163,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/KellyDang86">KellyDang86</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hphuocthanh">
+        <img src="https://avatars2.githubusercontent.com/u/39460625" width="100px;" alt="hphuocthanh"/>
+      </a>
+      <br />
+      <a href="https://github.com/hphuocthanh">Thanh Phuoc</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ndungx">
         <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
       </a>
@@ -190,6 +197,8 @@ HTML                     3 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/ttphats">Thái Thành Phát</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/TonyNguyen2512">
         <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
@@ -197,8 +206,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ngoduongkha">
         <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
@@ -212,6 +219,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/babybear0906">Lai Dinh Thuan (Jack)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Biscottezi">
+        <img src="https://avatars2.githubusercontent.com/u/61746360" width="100px;" alt="Biscottezi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Biscottezi">Minh Quân Nguyễn Phạm</a>
     </td>
     <td align="center">
       <a href="https://github.com/meofiscoding">
@@ -233,20 +247,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TrangHienKhoa">
-        <img src="https://avatars2.githubusercontent.com/u/73904992" width="100px;" alt="TrangHienKhoa"/>
-      </a>
-      <br />
-      <a href="https://github.com/TrangHienKhoa">TrangHienKhoa</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LeBuoi">
-        <img src="https://avatars2.githubusercontent.com/u/72743699" width="100px;" alt="LeBuoi"/>
-      </a>
-      <br />
-      <a href="https://github.com/LeBuoi">LeBuoi</a>
     </td>
   </tr>
 </table>
