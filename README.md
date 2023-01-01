@@ -200,6 +200,13 @@ HTML                     3 repos             ██░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/ngoduongkha">
+        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
+      </a>
+      <br />
+      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/meofiscoding">
         <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meofiscoding"/>
       </a>
@@ -212,13 +219,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ngoduongkha">
-        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
-      </a>
-      <br />
-      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
       <a href="https://github.com/babybear0906">
