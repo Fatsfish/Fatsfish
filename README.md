@@ -227,20 +227,20 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
       <a href="https://github.com/giangntse150746">giangntse150746</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ngoduongkha">
-        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
-      </a>
-      <br />
-      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/meofiscoding">
         <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meofiscoding"/>
       </a>
       <br />
       <a href="https://github.com/meofiscoding">Thanh Tra</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ngoduongkha">
+        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
+      </a>
+      <br />
+      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
       <a href="https://github.com/ttphats">
