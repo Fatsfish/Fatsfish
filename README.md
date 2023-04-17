@@ -243,18 +243,18 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
       <a href="https://github.com/meofiscoding">Thanh Tra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/TonyNguyen2512">
-        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
-      </a>
-      <br />
-      <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ttphats">
         <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
       </a>
       <br />
       <a href="https://github.com/ttphats">Thái Thành Phát</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TonyNguyen2512">
+        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
+      </a>
+      <br />
+      <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
     <td align="center">
       <a href="https://github.com/DooDoo0906">
