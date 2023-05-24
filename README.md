@@ -106,7 +106,7 @@
 
 [![Streak Stats of fatsfish](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=fatsfish&theme=merko)
 
-[![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.JPG)](https://profile-summary-for-github.com/user/fatsfish)
+[![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.jpg)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2014%20mins-blue)
