@@ -109,7 +109,7 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.jpg)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
 
@@ -140,13 +140,14 @@ Sunday                   96 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     3 mins              █████████████████████░░░░   85.82 % 
+Git                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Portfolio2.0             3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -166,7 +167,7 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2023 18:38:31 UTC
+ Last Updated on 03/06/2023 18:38:26 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
