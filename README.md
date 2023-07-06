@@ -213,6 +213,13 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
       <a href="https://github.com/ndungx">Nguyễn Dũng</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ngoduongkha">
+        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
+      </a>
+      <br />
+      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/knightz-007">
         <img src="https://avatars2.githubusercontent.com/u/57595893" width="100px;" alt="knightz-007"/>
       </a>
@@ -225,13 +232,6 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/giangntse150746">giangntse150746</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ngoduongkha">
-        <img src="https://avatars2.githubusercontent.com/u/57293030" width="100px;" alt="ngoduongkha"/>
-      </a>
-      <br />
-      <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
   </tr>
   <tr>
