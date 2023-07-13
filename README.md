@@ -203,7 +203,7 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
       </a>
       <br />
-      <a href="https://github.com/ndungx">Nguyễn Dũng</a>
+      <a href="https://github.com/ndungx">Nguyen Dung</a>
     </td>
     <td align="center">
       <a href="https://github.com/hphuocthanh">
