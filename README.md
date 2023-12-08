@@ -212,6 +212,13 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
       <a href="https://github.com/meofiscoding">Thanh Tra</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Biscottezi">
+        <img src="https://avatars2.githubusercontent.com/u/61746360" width="100px;" alt="Biscottezi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Biscottezi">Minh Quân Nguyễn Phạm</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TuanNguyen2204">
         <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
       </a>
@@ -231,13 +238,6 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/DooDoo0906">Lai Dinh Thuan (Jack)</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Biscottezi">
-        <img src="https://avatars2.githubusercontent.com/u/61746360" width="100px;" alt="Biscottezi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Biscottezi">Minh Quân Nguyễn Phạm</a>
     </td>
     <td align="center">
       <a href="https://github.com/fepfer-git">
