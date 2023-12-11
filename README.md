@@ -182,11 +182,11 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
       <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
-      <a href="https://github.com/knightz-007">
-        <img src="https://avatars2.githubusercontent.com/u/57595893" width="100px;" alt="knightz-007"/>
+      <a href="https://github.com/hectorluu">
+        <img src="https://avatars2.githubusercontent.com/u/57595893" width="100px;" alt="hectorluu"/>
       </a>
       <br />
-      <a href="https://github.com/knightz-007">Hung Luu</a>
+      <a href="https://github.com/hectorluu">Hung Luu</a>
     </td>
     <td align="center">
       <a href="https://github.com/giangntse150746">
