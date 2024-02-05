@@ -140,13 +140,13 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Portfolio                10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -166,7 +166,7 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2024 18:38:27 UTC
+ Last Updated on 05/02/2024 18:39:20 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
