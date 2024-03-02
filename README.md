@@ -109,7 +109,7 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.jpg)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
@@ -140,17 +140,17 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 16 mins        █████████████████████████   99.97 % 
+JavaScript               1 hr 20 mins        █████████████████████████   99.97 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-SaiGonTimeCal            57 mins             ███████████████████░░░░░░   75.28 % 
-crew-main                11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-HanoiBriefTimeCal        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-react-hourly-time-calcula3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+SaiGonTimeCal            1 hr 2 mins         ███████████████████░░░░░░   76.61 % 
+crew-main                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+HanoiBriefTimeCal        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+react-hourly-time-calcula3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +170,7 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2024 18:38:32 UTC
+ Last Updated on 02/03/2024 18:38:18 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
