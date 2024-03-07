@@ -109,7 +109,7 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.jpg)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
@@ -140,13 +140,17 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.00 % 
+HTML                     1 hr 4 mins         ████████████████████░░░░░   80.73 % 
+XML                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-SaiGonTimeCal            4 mins              █████████████████████████   100.00 % 
+Rainblur-Landing-Page-mai1 hr 15 mins        ████████████████████████░   94.55 % 
+SaiGonTimeCal            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -166,7 +170,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2024 18:38:21 UTC
+ Last Updated on 07/03/2024 18:38:13 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
