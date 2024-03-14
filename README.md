@@ -140,15 +140,13 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     1 hr 4 mins         █████████████████████░░░░   85.39 % 
-XML                      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Rainblur-Landing-Page-mai1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -168,7 +166,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2024 18:38:23 UTC
+ Last Updated on 14/03/2024 18:38:18 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
