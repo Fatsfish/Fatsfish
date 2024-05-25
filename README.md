@@ -278,11 +278,11 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/DooDoo0906">Lai Dinh Thuan (Jack)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fepfer-git">
-        <img src="https://avatars2.githubusercontent.com/u/106943721" width="100px;" alt="fepfer-git"/>
+      <a href="https://github.com/DatSung">
+        <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
       </a>
       <br />
-      <a href="https://github.com/fepfer-git">Nguyễn Minh Thái</a>
+      <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
     </td>
   </tr>
 </table>
