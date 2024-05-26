@@ -109,7 +109,7 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.jpg)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
@@ -140,13 +140,14 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+flutter_time_calculator  3 mins              █████████████████████████   99.17 % 
+Flutter Time calculator  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -166,7 +167,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2024 18:38:40 UTC
+ Last Updated on 26/05/2024 18:39:38 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
