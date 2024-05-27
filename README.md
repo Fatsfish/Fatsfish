@@ -272,18 +272,18 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DooDoo0906">
-        <img src="https://avatars2.githubusercontent.com/u/72665227" width="100px;" alt="DooDoo0906"/>
-      </a>
-      <br />
-      <a href="https://github.com/DooDoo0906">Lai Dinh Thuan (Jack)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DatSung">
         <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
       </a>
       <br />
       <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DooDoo0906">
+        <img src="https://avatars2.githubusercontent.com/u/72665227" width="100px;" alt="DooDoo0906"/>
+      </a>
+      <br />
+      <a href="https://github.com/DooDoo0906">Lai Dinh Thuan (Jack)</a>
     </td>
   </tr>
 </table>
