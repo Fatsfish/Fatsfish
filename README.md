@@ -140,14 +140,13 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-flutter_time_calculator  3 mins              █████████████████████████   99.17 % 
-Flutter Time calculator  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -167,7 +166,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2024 18:39:07 UTC
+ Last Updated on 02/06/2024 18:39:35 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
