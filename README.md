@@ -250,6 +250,13 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/giangntse150746">giangntse150746</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DatSung">
+        <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
+      </a>
+      <br />
+      <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Biscottezi">
         <img src="https://avatars2.githubusercontent.com/u/61746360" width="100px;" alt="Biscottezi"/>
       </a>
@@ -269,13 +276,6 @@ Dart                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DatSung">
-        <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
-      </a>
-      <br />
-      <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
     </td>
     <td align="center">
       <a href="https://github.com/DooDoo0906">
