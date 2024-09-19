@@ -236,18 +236,18 @@ Dart                     3 repos             ██░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/TuanNguyen2204">
-        <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
-      </a>
-      <br />
-      <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/giangntse150746">
         <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
       </a>
       <br />
       <a href="https://github.com/giangntse150746">giangntse150746</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TuanNguyen2204">
+        <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
+      </a>
+      <br />
+      <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
     </td>
     <td align="center">
       <a href="https://github.com/DatSung">
