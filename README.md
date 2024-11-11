@@ -109,7 +109,45 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.jpg)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%205%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                422 commits         ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌆 Daytime                332 commits         ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌃 Evening                288 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Tuesday                  228 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -128,7 +166,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 18:42:59 UTC
+ Last Updated on 11/11/2024 18:44:48 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
