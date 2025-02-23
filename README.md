@@ -140,15 +140,13 @@ Sunday                   97 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     7 mins              ████████████████░░░░░░░░░   62.19 % 
-JavaScript               4 mins              █████████░░░░░░░░░░░░░░░░   37.30 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Happy-Valentine-2025     12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -168,7 +166,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2025 18:45:52 UTC
+ Last Updated on 23/02/2025 18:43:10 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
