@@ -192,18 +192,18 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/baolongv3">baolongv3</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hphuocthanh">
-        <img src="https://avatars2.githubusercontent.com/u/39460625" width="100px;" alt="hphuocthanh"/>
-      </a>
-      <br />
-      <a href="https://github.com/hphuocthanh">Tom Thanh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KellyDang86">
         <img src="https://avatars2.githubusercontent.com/u/42370372" width="100px;" alt="KellyDang86"/>
       </a>
       <br />
       <a href="https://github.com/KellyDang86">KellyDang86</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hphuocthanh">
+        <img src="https://avatars2.githubusercontent.com/u/39460625" width="100px;" alt="hphuocthanh"/>
+      </a>
+      <br />
+      <a href="https://github.com/hphuocthanh">Tom Thanh</a>
     </td>
     <td align="center">
       <a href="https://github.com/ndungx">
@@ -236,6 +236,13 @@ Dart                     3 repos             ██░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/DatSung">
+        <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
+      </a>
+      <br />
+      <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/giangntse150746">
         <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
       </a>
@@ -248,13 +255,6 @@ Dart                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DatSung">
-        <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
-      </a>
-      <br />
-      <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
     </td>
     <td align="center">
       <a href="https://github.com/Biscottezi">
