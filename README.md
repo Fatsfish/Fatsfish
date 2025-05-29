@@ -243,13 +243,6 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
     </td>
     <td align="center">
-      <a href="https://github.com/TuanNguyen2204">
-        <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
-      </a>
-      <br />
-      <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/giangntse150746">
         <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
       </a>
@@ -257,11 +250,11 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/giangntse150746">giangntse150746</a>
     </td>
     <td align="center">
-      <a href="https://github.com/TonyNguyen2512">
-        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
+      <a href="https://github.com/TuanNguyen2204">
+        <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
       </a>
       <br />
-      <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
+      <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
     </td>
     <td align="center">
       <a href="https://github.com/Biscottezi">
@@ -283,6 +276,13 @@ Dart                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/fepfer-git">Nguyễn Minh Thái</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TonyNguyen2512">
+        <img src="https://avatars2.githubusercontent.com/u/72120353" width="100px;" alt="TonyNguyen2512"/>
+      </a>
+      <br />
+      <a href="https://github.com/TonyNguyen2512">Tony Nguyễn</a>
     </td>
   </tr>
 </table>
