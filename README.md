@@ -182,18 +182,18 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DatSung">
-        <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
-      </a>
-      <br />
-      <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hectorluu">
         <img src="https://avatars2.githubusercontent.com/u/57595893" width="100px;" alt="hectorluu"/>
       </a>
       <br />
       <a href="https://github.com/hectorluu">Hung Luu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DatSung">
+        <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
+      </a>
+      <br />
+      <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
     </td>
   </tr>
   <tr>
