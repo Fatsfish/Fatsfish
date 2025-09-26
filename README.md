@@ -231,7 +231,7 @@ Dart                     3 repos             ██░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/76811950" width="100px;" alt="giangntse150746"/>
       </a>
       <br />
-      <a href="https://github.com/giangntse150746">giangntse150746</a>
+      <a href="https://github.com/giangntse150746">giangnt.dev</a>
     </td>
   </tr>
   <tr>
