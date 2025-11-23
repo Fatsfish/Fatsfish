@@ -250,13 +250,6 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/giangntse150746">giangnt.dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/TuanNguyen2204">
-        <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
-      </a>
-      <br />
-      <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Biscottezi">
         <img src="https://avatars2.githubusercontent.com/u/61746360" width="100px;" alt="Biscottezi"/>
       </a>
@@ -283,6 +276,13 @@ Dart                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/fepfer-git">Nguyễn Minh Thái</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TuanNguyen2204">
+        <img src="https://avatars2.githubusercontent.com/u/90450588" width="100px;" alt="TuanNguyen2204"/>
+      </a>
+      <br />
+      <a href="https://github.com/TuanNguyen2204">TuanNguyen2204</a>
     </td>
   </tr>
 </table>
