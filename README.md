@@ -196,7 +196,7 @@ Dart                     3 repos             ██░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/39460625" width="100px;" alt="hphuocthanh"/>
       </a>
       <br />
-      <a href="https://github.com/hphuocthanh">Tom Thanh</a>
+      <a href="https://github.com/hphuocthanh">Thanh Hoang</a>
     </td>
     <td align="center">
       <a href="https://github.com/KellyDang86">
