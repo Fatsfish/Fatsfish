@@ -220,12 +220,21 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ttphats">
+        <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
+      </a>
+      <br />
+      <a href="https://github.com/ttphats">Thái Thành Phát</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/meofiscoding">
         <img src="https://avatars2.githubusercontent.com/u/82217333" width="100px;" alt="meofiscoding"/>
       </a>
       <br />
       <a href="https://github.com/meofiscoding">Thanh Tra</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/hectorluu">
         <img src="https://avatars2.githubusercontent.com/u/57595893" width="100px;" alt="hectorluu"/>
@@ -233,21 +242,12 @@ Dart                     3 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/hectorluu">Hung Luu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/DatSung">
         <img src="https://avatars2.githubusercontent.com/u/109453487" width="100px;" alt="DatSung"/>
       </a>
       <br />
       <a href="https://github.com/DatSung">Nguyen Thanh Dat</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ttphats">
-        <img src="https://avatars2.githubusercontent.com/u/87026966" width="100px;" alt="ttphats"/>
-      </a>
-      <br />
-      <a href="https://github.com/ttphats">Thái Thành Phát</a>
     </td>
     <td align="center">
       <a href="https://github.com/giangntse150746">
