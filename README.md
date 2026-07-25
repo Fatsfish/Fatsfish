@@ -109,7 +109,45 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.jpg)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.03%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2019%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.79%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                382 commits         █████████░░░░░░░░░░░░░░░░   37.78 % 
+🌆 Daytime                310 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
+🌃 Evening                260 commits         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Tuesday                  222 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Wednesday                166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Thursday                 182 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Friday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Saturday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Sunday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -128,7 +166,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:57:36 UTC
+ Last Updated on 25/07/2026 19:49:19 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
