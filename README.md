@@ -109,51 +109,7 @@
 [![More detail stats](https://github.com/Fatsfish/Fatsfish/blob/main/assets/Detail's%20Stat%20of%20FatsFish.jpg)](https://profile-summary-for-github.com/user/fatsfish)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2016%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.03%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                422 commits         █████████░░░░░░░░░░░░░░░░   37.98 % 
-🌆 Daytime                342 commits         ████████░░░░░░░░░░░░░░░░░   30.78 % 
-🌃 Evening                288 commits         ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Tuesday                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Thursday                 212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Friday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -172,7 +128,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:07:04 UTC
+ Last Updated on 28/07/2026 20:04:41 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
