@@ -111,26 +111,26 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.81%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                382 commits         █████████░░░░░░░░░░░░░░░░   37.78 % 
-🌆 Daytime                310 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌃 Evening                260 commits         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+🌞 Morning                418 commits         █████████░░░░░░░░░░░░░░░░   37.90 % 
+🌆 Daytime                340 commits         ████████░░░░░░░░░░░░░░░░░   30.83 % 
+🌃 Evening                286 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Tuesday                  222 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Wednesday                166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Thursday                 182 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Friday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Saturday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Sunday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Tuesday                  229 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Wednesday                187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Thursday                 210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Friday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 ```
 
 
@@ -172,7 +172,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fatsfish/Fatsfish/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:14:49 UTC
+ Last Updated on 05/08/2026 20:12:27 UTC
 <!--END_SECTION:waka-->
 
 - Visitor count since 29/07/2021:
