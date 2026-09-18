@@ -205,13 +205,6 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/thanhh0">Thanh Hoang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ndungx">
-        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
-      </a>
-      <br />
-      <a href="https://github.com/ndungx">Nguyen Dung</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KellyDang86">
         <img src="https://avatars2.githubusercontent.com/u/42370372" width="100px;" alt="KellyDang86"/>
       </a>
@@ -224,6 +217,13 @@ Dart                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/ngoduongkha">Ngô Dương Kha</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ndungx">
+        <img src="https://avatars2.githubusercontent.com/u/62410410" width="100px;" alt="ndungx"/>
+      </a>
+      <br />
+      <a href="https://github.com/ndungx">Nguyen Dung</a>
     </td>
     <td align="center">
       <a href="https://github.com/ttphats">
