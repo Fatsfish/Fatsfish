@@ -198,18 +198,18 @@ Dart                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/baolongv3">baolongv3</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thanhh0">
-        <img src="https://avatars2.githubusercontent.com/u/39460625" width="100px;" alt="thanhh0"/>
-      </a>
-      <br />
-      <a href="https://github.com/thanhh0">Thanh Hoang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KellyDang86">
         <img src="https://avatars2.githubusercontent.com/u/42370372" width="100px;" alt="KellyDang86"/>
       </a>
       <br />
       <a href="https://github.com/KellyDang86">KellyDang86</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thanhh0">
+        <img src="https://avatars2.githubusercontent.com/u/39460625" width="100px;" alt="thanhh0"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhh0">Thanh Hoang</a>
     </td>
     <td align="center">
       <a href="https://github.com/ngoduongkha">
